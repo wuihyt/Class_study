@@ -1,0 +1,18 @@
+
+#include "Base.h"
+#include "Derived.h"
+
+#include <iostream>
+using namespace std;
+
+
+
+int main() 
+{
+
+	cout << "0" << endl;
+
+
+	return 0;
+
+}
